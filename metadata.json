@@ -1,0 +1,6 @@
+{
+  "name": "Equal Voice Equal Choice",
+  "description": "An inclusive safety companion featuring real-time safe navigation, siren deterrents, voice emergency triggers, and an AI-powered safety and legal advisor.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
